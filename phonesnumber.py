@@ -1,7 +1,7 @@
 import sys
 import csv
 
-csvfile_path = "/Users/NightBaron/Desktop/py/find-emails-test/user_emails.csv"
+csvfile_path = "/Users/NightBaron/py/find-emails-test/user_emails.csv"
 
 
 def populate_dictionary(filename):
